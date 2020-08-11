@@ -24,3 +24,6 @@ of(10,12,13).pipe(
   map(x => x + 1),
   filter(x => x > 12)
 ).subscribe((v) => console.log(`value: ${v}`));
+
+//pythagoran triplets
+
